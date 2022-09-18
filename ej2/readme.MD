@@ -8,3 +8,5 @@ De la descripción del repositorio de GitHub de Elasticsearch: "Elasticsearch es
 
 
  La imagen provee una vista básica de la arquitectura de Elastic Stack que emplea Elasticsearch. Se puede ver como los beats envían los datos hacia Elasticsearch que se encarga de la indexación, procesamiento, correlación de datos. Estos datos son posteriormente enviados a Kibana que se encarga de la visualización de estos datos. 
+
+[Link de Elasticsearch](https://github.com/elastic/elasticsearch)
