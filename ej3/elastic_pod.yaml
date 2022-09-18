@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Pod
+metadata:
+  name: elasticsearch-pod
+  labels:
+    app: elasticsearch
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: elasticsearch
+  template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: elasticsearch
+        image: elasticsearch:8.4.1
+        ports:
+        - containerPort: 9200
