@@ -1,7 +1,7 @@
 # Aplicación: Elasticsearch
 
 
-De la descripción del repositorio de GitHub de Elasticsearch: "Elasticsearch es un  motor de búsqueda y analísticas distribuido qué es el corazón de Elastic Stack. Tú puedes usar Elasticsearch para guardar, buscar, y manejar datos...". Este motor es muy usado en aplicaciones de marketing, seguridad, indexación, etc.
+De la descripción del repositorio de GitHub de Elasticsearch: "Elasticsearch es un  motor de búsqueda y analítica distribuido qué es el corazón de Elastic Stack. Tú puedes usar Elasticsearch para guardar, buscar, y manejar datos...". Este motor es muy usado en aplicaciones de marketing, seguridad, indexación, etc.
 
 
  ![Elastic Stack Basic Architecture](./deploy1.png)
